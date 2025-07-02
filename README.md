@@ -24,19 +24,27 @@ DELETE: https://fakestoreapi.com/products/{productnumber}
 
 perform GET API - validate response code and response body
 GET
-![img.png](img.png)
+
+![image](https://github.com/user-attachments/assets/86fdd49b-899c-4d67-9e70-14ef5619fbf7)
+
 
 POST API- validate response code and response body
 POST:
-![img_1.png](img_1.png)
+
+![image](https://github.com/user-attachments/assets/88e9aa69-41a3-43a0-b826-4969c058a359)
+
 
 PUT API- validate response code and response body
 PUT:
-![img_2.png](img_2.png)
+
+![image](https://github.com/user-attachments/assets/92086752-87a6-465f-8285-ca56633300b2)
+
 
 DELETE API - validate response code and response body
 DELETE:
-![img_3.png](img_3.png)
+
+![image](https://github.com/user-attachments/assets/5a2efe21-fe6b-4913-b349-432681cc5944)
+
 
 
 ## Features
@@ -59,8 +67,9 @@ The tests need to be validated for the response code returned back as well as th
 
 ## Execution modes ## 🤖 Starting up
 
-![img_4.png](img_4.png)
+![image](https://github.com/user-attachments/assets/a41b8bbf-f296-4e38-a76c-8285f0824524)
+
 
 ## Reporting
 
-![img_5.png](img_5.png)
+![image](https://github.com/user-attachments/assets/2579e1b1-40aa-4479-adb1-defe46723c8c)
