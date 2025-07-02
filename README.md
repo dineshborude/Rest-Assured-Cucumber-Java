@@ -10,3 +10,9 @@
 
 #### REST Assured is implemented in groovy.
 
+## Prerequisites : 
+
+#### Java, Maven, TestNG
+
+## MVN Repo Dependencies : 
+#### rest-assured, testNG
