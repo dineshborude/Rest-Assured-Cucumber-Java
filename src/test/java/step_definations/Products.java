@@ -45,7 +45,7 @@ public class Products {
     }
 
     @Then("I verify that the rate of the first product is <Rate>")
-    public void i_verify_that_the_rate_of_the_first_product_is(String arg0) {
+    public void i_verify_that_the_rate_of_the_first_product_is_rate(String rate) {
 
         body = response.getBody();
 
@@ -55,6 +55,6 @@ public class Products {
 
         String s = jsonpath.getJsonObject("rating").toString();
 
+        assertEquals(rate, s);
     }
-
 }
